@@ -12,12 +12,18 @@ To use Lumache, first install it using pip:
 
    (.venv) $ pip install lumache
    
-Редактировать Компанию
+Редактировать Данные
 ----------------------
 
 To use Lumache, first install it using pip:
 
 .. code-block:: console
+
+Данные о Траках
+----------------------
+
+Данные о Трейлерах
+----------------------
 
 Разместить Объявление
 ---------------------
