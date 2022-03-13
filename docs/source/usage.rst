@@ -1,19 +1,26 @@
-Usage
+Для Компаний
 =====
 
 .. _installation:
 
-Installation
-------------
+Зарегистрировать Компанию
+-------------------------
 
 To use Lumache, first install it using pip:
 
 .. code-block:: console
 
    (.venv) $ pip install lumache
+   
+Редактировать Компанию
+----------------------
 
-Creating recipes
-----------------
+To use Lumache, first install it using pip:
+
+.. code-block:: console
+
+Разместить Объявление
+---------------------
 
 To retrieve a list of random ingredients,
 you can use the ``lumache.get_random_ingredients()`` function:
@@ -32,3 +39,6 @@ For example:
 >>> lumache.get_random_ingredients()
 ['shells', 'gorgonzola', 'parsley']
 
+
+Редактировать Объявление
+---------------------
