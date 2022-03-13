@@ -1,17 +1,10 @@
-Welcome to Lumache's documentation!
+Документация TruckDriver.Help
 ===================================
+TruckDriver.Life это уникальный веб-сервис который нацелен облегчить а так же улучшить поиск работы в логистической индустрии водителям с правами CDL.
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+.. Внимание::
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
-
-.. note::
-
-   This project is under active development.
+   Этот проект находится в стадии активной разработки. 
 
 Contents
 --------
