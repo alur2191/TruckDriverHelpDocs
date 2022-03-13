@@ -1,3 +1,11 @@
 .wy-side-nav-search {
   background-color: #3C3C77;
 }
+
+.wy-side-nav-search input[type=text] {
+  background-color: #3C3C77;
+}
+
+a:hover {
+  background-color: #3C3C77;
+}
