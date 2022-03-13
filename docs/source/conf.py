@@ -34,9 +34,3 @@ html_theme = 'sphinx_rtd_theme'
 # -- Options for EPUB output
 epub_show_urls = 'footnote'
 
-# These folders are copied to the documentation's HTML output
-html_static_path = ['_static']
-# Custom CSS
-html_css_files = [
-    'css/custom.css',
-]
