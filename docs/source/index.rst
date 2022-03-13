@@ -11,5 +11,7 @@ Contents
 
 .. toctree::
 
-   usage
-   api
+   about
+   users
+   companies
+   contact
